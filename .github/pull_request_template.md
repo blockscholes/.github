@@ -20,7 +20,4 @@ Make a note of any additional work needed when going to prod, to highlight to th
 
  E.g. Update Cloud formation, Permission added to DB, Update Streaming task definitions -->
 
- ### Does this block any other repo from being deployed to Prod
-
- - [ ] Yes, REPO(s):
-- [X] No
+ <!-- ### Other repo's blocked due to this change -->
